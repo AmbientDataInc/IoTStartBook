@@ -1,6 +1,6 @@
 # 「IoT開発スタートブック」プログラム集
 
-[![cover](./images/cover_final_small.jpg)](https://amzn.to/2yINQDw)
+[<img src="./images/cover_final_small.jpg" width="25%">](https://amzn.to/2yINQDw)
 
 「[IoT開発スタートブック](https://amzn.to/2yINQDw)」で取り上げたプログラムです。
 
